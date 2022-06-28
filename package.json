@@ -1,0 +1,16 @@
+{
+  "name": "lovepad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.0.2",
+    "firebase-admin": "^9.11.1",
+    "launchpad-mini": "^2.3.3"
+  }
+}
